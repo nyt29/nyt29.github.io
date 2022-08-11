@@ -65,25 +65,25 @@ body {
 h1 {
     color: #00FF00;
     padding-top: 15px;
-}
+}   
 
 h3 {
     color: white;
 }
 
-.win10crack {
+.top {
     padding-top: 0px;
     padding-left: 20px;
     color: #00FF00;
 }
 
-.win10crack a {
+.top a {
     color: #15f4ee;
     text-decoration: none;
 }
 
-.win10crack a:hover {
-    color: #15f4ee;
+.top a:hover {
+    color: #34cac5;
     text-decoration: none;
     cursor: pointer;
     font-weight: 400;
